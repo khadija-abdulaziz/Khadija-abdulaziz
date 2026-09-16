@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Khadija Abdulaziz 👋
 
-<!--
-**khadija-abdulaziz/Khadija-abdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+**About Me**
+- 🎓 IT Student at [Your University] - Mombasa, Kenya
+- 💻 Passionate about Web Development & Technology
+- 🌱 Currently learning HTML, CSS, JavaScript and Git
+- 🎯 Goal: To become a skilled Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Skills**
+- Languages: HTML | CSS | JavaScript
+- Tools: Git & GitHub | VS Code
+
+**My Portfolio**
+👉 Check out my portfolio here: [Your portfolio link will go here]
+
+**Let's Connect**
+- Email: khadijaabdulaziz@email.com
+- LinkedIn: [Add your LinkedIn link]
